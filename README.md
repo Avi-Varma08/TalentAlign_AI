@@ -27,7 +27,7 @@ ML/NLP → SentenceTransformers + OpenAI embeddings
 
 🛠️ Installation & Setup
 1. Clone the Repository
-git clone https://github.com/your-username/TalentAlign-AI.git
+git clone https://github.com/Avi-Varma08/TalentAlign_AI.git
 cd TalentAlign-AI
 
 2. Install Dependencies
